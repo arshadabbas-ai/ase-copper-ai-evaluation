@@ -1,0 +1,4 @@
+id,correctness,evidence,clarity,feedback,total_score,percentage
+REASON-01,2,2,1,Correct scientific explanation.,5,100.0
+REASON-02,1,0,1,Incomplete explanation. EMT model context missing.,2,40.0
+REASON-03,0,0,1,Incorrect interpretation of FCC unit cell.,1,20.0

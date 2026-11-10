@@ -1,0 +1,9 @@
+{
+    "material": "Copper",
+    "structure": "FCC",
+    "simulation_method": "ASE EMT",
+    "equilibrium_volume_A3": 11.563251407120669,
+    "equilibrium_lattice_constant_A": 3.5896049313597045,
+    "minimum_energy_eV": -0.006595507604301609,
+    "bulk_modulus_GPa": 132.60090339678746
+}

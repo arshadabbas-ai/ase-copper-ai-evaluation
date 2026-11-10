@@ -1,0 +1,2 @@
+Question_ID,AI_Model,Scientific_Correctness,Scientific_Evidence,Clarity,Volume_Check,Lattice_Check,Feedback,Total_Score
+REASON-03,Google Gemini,2,2,1,True,True,"Correct FCC geometry, unit-cell volume, lattice constant, and scientific explanation.",5
